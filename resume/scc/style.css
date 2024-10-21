@@ -1,0 +1,22 @@
+.myFilocofy {
+    color: white;
+}
+
+.gray {
+    background-color: black;
+    width: 300px;
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+    margin-bottom: 10px;
+}
+
+.Myinfo {
+    border: 2px solid salmon;
+}
+
+
+img {
+    width: 300px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
